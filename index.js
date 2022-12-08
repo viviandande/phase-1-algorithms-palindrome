@@ -35,9 +35,9 @@ a function isPalindrome will receive an a single argument of string type
 the function should return true when executed if the string is a palindrome
 else return false if it is not a palindrome
 if the a word reads the same forward and backwards, it is a palindrome
-mom === mom //true
-tot === tot //true
-risk === risk //false
+dad === dad //true
+kayak === kayak //true
+pray === pray //false
 
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
