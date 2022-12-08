@@ -32,7 +32,7 @@ else return false
   Add written explanation of your solution here
 */
 a function isPalindrome will receive an a single argument of string type
-the function should return true when executed if the string is a palindrome
+the function should return true if the string is a palindrome
 else return false if it is not a palindrome
 if the a word reads the same forward and backwards, it is a palindrome
 dad === dad //true
